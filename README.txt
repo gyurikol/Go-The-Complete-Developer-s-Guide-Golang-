@@ -14,3 +14,5 @@ How to Access Course Diagrams
     - Paste the link to the XML file
     - Tada!
 
+Completion Certificate:
+    https://www.udemy.com/certificate/UC-ad8a9c37-7d25-439a-a30c-47635cde2979/
